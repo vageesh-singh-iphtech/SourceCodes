@@ -74,6 +74,13 @@ Usage
 - Storyboard: UI built using Interface Builder. 
 - CoreData: Local data storage framework used for persisting user data.
 
+## Screenshots
+
+![Image](https://github.com/user-attachments/assets/67858df8-5f72-46c7-90e6-6685b27fcc5b)
+![Image](https://github.com/user-attachments/assets/a3342466-cfdf-4f4b-bab9-5efc0331bc9d)
+![Image](https://github.com/user-attachments/assets/8a4bef19-7df1-46c2-be6d-e175d7c86400)
+
+
 # Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page for any suggestions or improvements.
