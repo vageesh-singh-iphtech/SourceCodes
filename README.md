@@ -24,7 +24,7 @@ If you are using additional dependency managers like CocoaPods or Swift Package 
 
 Choose your target device (iOS Simulator or a connected device). Press Cmd + R to build and run the app.
 
-Usage
+# Usage
 
 ### Registering a User
 
